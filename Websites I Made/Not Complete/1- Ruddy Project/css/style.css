@@ -1,0 +1,129 @@
+*{margin: 0 ;box-sizing: border-box !important;list-style: none !important;}
+
+main{
+    width: 100%;
+    min-height: 1500px;
+    border: 1px solid salmon;
+}
+
+/* FIRST MAIN */
+header{
+    height: 1000px;
+    position: relative;
+    background: url(../images/header-background.jpg) no-repeat;
+    background-size:cover;
+    overflow: hidden;
+}
+
+nav{
+    background-color: #EB455F;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0;
+    right: 0;
+    padding: 0 !important;
+    z-index: 1000;
+    overflow: hidden;
+}
+
+/* Bottom Header */
+#bottom-header{
+    min-height: 200px;
+    position: absolute;
+    bottom: 0;
+} 
+
+.brands{background-color: #0C443499;}
+
+/* Strategies */
+#strategies{min-height: 500px;}
+
+/* SECOND MAIN */
+
+/* our Process */
+#our-process{
+    min-height: 900px;
+    background: url(../images/process-bg.jpg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.p-bg1{background: url(../images/p-bg1.jpg) no-repeat; background-size: cover;}
+.p-bg2{background: url(../images/p-bg2.jpg) no-repeat; background-size: cover;}
+.p-bg3{background: url(../images/p-bg3.jpg) no-repeat; background-size: cover;}
+.p-bg4{background: url(../images/p-bg4.jpg) no-repeat; background-size: cover;}
+
+/* THIRD MAIN */
+
+#our-blog{
+    min-height: 800px;
+    overflow: hidden;
+}
+
+.img-size{width: 100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Text Color */
+.tc-1{color: #fff;}
+
+/* margin */
+.m-img{margin-top: 44px;}
+
+
+/* WIDTHS */
+.w-1{width: 100%;}
+
+
+/* HEIGHTS */
+.h-1{min-height: 50px;}
+.h-2{min-height: 200px;}
+.h-3{min-height: 400px;}
+.h-4{min-height: 600px;}
+.h-5{min-height: 408px;}
+.h-6{min-height: 300px;}
+.h-7{height: 300px;}
+.h-8{min-height: 900px;}
+.h-9{min-height: 450px;}
+
+
+/* Backgrounds  */
+.bg-nav1{background-color: #2B3467;}
+.bg-1{background-color: #FAAB7888;}
+.bg-ruddy1{background-color: #EB455F;}
+.bg-ruddy2{background-color: #2B3467;}
+.bg-2{background-color: aqua;}
+.bg-3{background-color: salmon;}
+.bg-4{background-color: blueviolet;}
+.bg-5{background-color: brown;}
+.bg-6{background-color: royalblue;}
+.bg-7{background-color: wheat;}
+.bg-8{background-color: gold;}
+
+
+
+/* Borders */
+.border1{border: 1px solid black;}
+.border2{border: 1px solid red;}
+.border3{border: 1px solid blue;}
+.border4{border: 1px solid salmon;}
+.border5{border: 1px solid yellow;}
+.border6{border: 1px solid green;}
+
+
+
+
+
